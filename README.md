@@ -1,3 +1,4 @@
+<img  src="https://github.com/ansh-sx/ansh-sx/assets/147230122/f7be31a4-baef-43a3-b5be-93dd3798dd62" alt="">
 <h1 align="center">Hi 👋, I'm Ansh Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="400px" align="right" alt="">
